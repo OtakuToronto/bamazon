@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon assisgnment ",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OtakuToronto/bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "Holly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OtakuToronto/bamazon/issues"
+  },
+  "homepage": "https://github.com/OtakuToronto/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
